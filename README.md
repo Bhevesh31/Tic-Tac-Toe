@@ -7,3 +7,4 @@ Features:- 1).Interactive and responsive design
           3). Winning logic with game restart option
           
 Technologies used:-  HTML, CSS, and JavaScript
+Live demo:-  https://bhevesh31.github.io/Tic-Tac-Toe/
